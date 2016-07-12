@@ -1,0 +1,1 @@
+For Supplementary Information section S6 of the NASA paper. Calculates and graphs four different synergy analysis methods applied to mixtures of 2 linear quadratic (LQ) IDER. Run Eb_Ei_Ez_Alden_Jan3.R first, then eps_format_graphs.R. On a Windows machine you may have to run the ggplot lines manually to get the graphs.
